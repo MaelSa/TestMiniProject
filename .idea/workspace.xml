@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8d0221d-db9b-4ff0-ac2c-315659782e94" name="Default Changelist" comment="" />
+    <list default="true" id="a8d0221d-db9b-4ff0-ac2c-315659782e94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestMiniProject/SimpleFileClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TestMiniProject/SimpleFileServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queen-downloaded.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestMiniProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TestMiniProject/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestMiniProject/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleFileClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleFileClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleFileServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleFileServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +27,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TSkrS5xJECUWbFbow3ZQqNG5bZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -50,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Server" />
+    <configuration name="SimpleFileClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleFileClient" />
+      <module name="TestMiniProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFileServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleFileServer" />
+      <module name="TestMiniProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="TestMiniProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,8 +91,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.PlayMidiAudio" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SimpleFileClient" />
+        <item itemvalue="Application.SimpleFileServer" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
       </list>
     </recent_temporary>
   </component>
@@ -78,11 +111,32 @@
       <workItem from="1573461086080" duration="4106000" />
       <workItem from="1573974530811" duration="2629000" />
       <workItem from="1573982716604" duration="1147000" />
-      <workItem from="1574009885678" duration="667000" />
+      <workItem from="1574009885678" duration="1868000" />
+      <workItem from="1574180223137" duration="73000" />
+      <workItem from="1574182857394" duration="2715000" />
+      <workItem from="1574611516967" duration="157000" />
+      <workItem from="1574612516482" duration="2094000" />
+      <workItem from="1575044487141" duration="298000" />
+      <workItem from="1575045529464" duration="727000" />
+      <workItem from="1575050934796" duration="15000" />
+      <workItem from="1575056324844" duration="2789000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
